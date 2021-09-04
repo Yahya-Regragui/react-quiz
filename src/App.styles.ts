@@ -17,11 +17,7 @@ export const GlobalStyle = createGlobalStyle`
     .number{
         width: 600px;
     }
-    .questions{
-        display:flex;
-        flex-direction:row;
-        justify-content:center;
-    }
+    
     .App {
         display:flex;
         flex-direction:column;
